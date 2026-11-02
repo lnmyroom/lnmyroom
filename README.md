@@ -1,14 +1,3 @@
-   <p align="center">${\textsf{\color{#7C55AD}I am upset and heartbroken by this betrayal Awze.}}$
-   
-   <p align="center"><img width="356" height="267" alt="image" src="https://github.com/user-attachments/assets/fea9197b-ae5c-4fde-b262-7d8bdf1bb378" />
+<img width="1200" alt="Untitled143_20261015075408" src="https://github.com/user-attachments/assets/c0803113-c6d1-4b57-a471-992ccbc557dd" />
 
- <p align="center">${\textsf{\color{#462670}But I forgive you, remember our promise at the start of the SMP?}}$
-
-  <p align="center"><img width="388" height="217" alt="image" src="https://github.com/user-attachments/assets/ab54730c-419a-482c-b653-71e4855a7915" />
-
-  <p align="center">${\textsf{\color{#2E1550}That our friendship is forever, even if it means hurting eachother.}}$<img width="15" src="https://i.imgur.com/ZISm3uS.gif">
-
-  <p align="center">
-  <img width="700" src="https://64.media.tumblr.com/aebeb8f7521ee6fb0557995080ffab1f/2a25a5e1abd64440-ff/s400x600/1100fcbc8ec3a12bf983d567937879e839a11cd4.gifv"/>
-</a>
-
+<p align="middle"> <img width="280" alt="Untitled143_20261101170633" src="https://github.com/user-attachments/assets/92628679-50de-4bbe-81e3-52ba4da4d703" /> <img width="280" alt="Untitled143_20261101170627" src="https://github.com/user-attachments/assets/50d4a67d-37b6-4179-bac2-aff46bd9e4f0" /> <img width="280" alt="Untitled143_20261101170619" src="https://github.com/user-attachments/assets/518c51b1-c0d8-4ab2-8740-23d4c6d1bcea" />
